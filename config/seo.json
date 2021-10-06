@@ -1,0 +1,12 @@
+{
+  "title": "Home",
+  "titleTemplate": "%s | JavaScript 2 MA2",
+  "defaultTitle": "JavaScript 2 MA2",
+  "description": "The JavaScript 2 Module Assignment 2.",
+  "openGraph": {
+    "type": "website",
+    "locale": "en",
+    "url": "https://noroff-js2-ma2.vercel.app",
+    "site_name": "JavaScript 2 MA2"
+  }
+}

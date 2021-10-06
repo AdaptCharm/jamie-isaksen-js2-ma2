@@ -1,0 +1,11 @@
+.root {
+  @apply relative;
+}
+
+.shadow {
+  @apply shadow-6;
+}
+
+.clean {
+  @apply py-8 xl:py-12;
+}

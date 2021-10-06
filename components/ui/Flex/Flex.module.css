@@ -1,0 +1,91 @@
+.root {
+  @apply flex;
+}
+
+.flexRow {
+  @apply flex-row;
+}
+
+.flexRowReverse {
+  @apply flex-row-reverse;
+}
+
+.flexCol {
+  @apply flex-col;
+}
+
+.flexColReverse {
+  @apply flex-col-reverse;
+}
+
+.itemsStart {
+  @apply items-start;
+}
+
+.itemsCenter {
+  @apply items-center;
+}
+
+.itemsEnd {
+  @apply items-end;
+}
+
+.itemsStretch {
+  @apply items-stretch;
+}
+
+.itemsBaseline {
+  @apply items-baseline;
+}
+
+.justifyStart {
+  @apply justify-start;
+}
+
+.justifyCenter {
+  @apply justify-center;
+}
+
+.justifyEnd {
+  @apply justify-end;
+}
+
+.justifyBetween {
+  @apply justify-between;
+}
+
+.justifyAround {
+  @apply justify-around;
+}
+
+.justifyEvenly {
+  @apply justify-evenly;
+}
+
+.wrap {
+  @apply flex-wrap;
+}
+
+.wrapReverse {
+  @apply flex-wrap-reverse;
+}
+
+.wrapNoWrap {
+  @apply flex-nowrap;
+}
+
+.gapXs {
+  @apply gap-4;
+}
+
+.gapSm {
+  @apply gap-8;
+}
+
+.gapMd {
+  @apply gap-12;
+}
+
+.gapLg {
+  @apply gap-16;
+}

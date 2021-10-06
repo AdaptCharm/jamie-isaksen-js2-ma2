@@ -1,0 +1,11 @@
+.root {
+  @apply relative;
+}
+
+.isBlock {
+  @apply block;
+}
+
+.isInlineBlock {
+  @apply inline-block;
+}

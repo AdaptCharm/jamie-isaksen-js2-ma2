@@ -1,0 +1,31 @@
+.root {
+  @apply grid;
+}
+
+.colsOne {
+  @apply grid-cols-1;
+}
+
+.colsTwo {
+  @apply grid-cols-1 sm:grid-cols-2;
+}
+
+.colsThree {
+  @apply grid-cols-1 sm:grid-cols-2 lg:grid-cols-3;
+}
+
+.colsFour {
+  @apply grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4;
+}
+
+.gapSmall {
+  @apply gap-8;
+}
+
+.gapMedium {
+  @apply gap-12;
+}
+
+.gapLarge {
+  @apply gap-16;
+}

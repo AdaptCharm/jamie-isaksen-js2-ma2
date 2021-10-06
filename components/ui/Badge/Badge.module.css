@@ -1,0 +1,27 @@
+.root {
+  @apply inline-flex items-center font-medium rounded-full;
+}
+
+.blue {
+  @apply bg-blue-300 text-blue-600;
+}
+
+.red {
+  @apply bg-red-300 text-red-600;
+}
+
+.sizeXs {
+  @apply text-xs px-2.5 py-0.5;
+}
+
+.sizeSm {
+  @apply text-sm px-3 py-0.5;
+}
+
+.sizeMd {
+  @apply px-3.5 py-0.5;
+}
+
+.sizeLg {
+  @apply text-lg px-4 py-0.5;
+}
